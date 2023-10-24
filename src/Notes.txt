@@ -1,0 +1,3 @@
+
+If we want to know whether there is a connection between our Local Repo and the Remote repo in GitHub:
+we simply type in GitBash: git remote -v
